@@ -1,3 +1,5 @@
 # hello-world
 
-simdi 2. denemedeyim
+simdi 2. denemedeymişim falan
+
+branc'i silmedim ve 3. editteyim
